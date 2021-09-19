@@ -1,0 +1,20 @@
+h1{
+  background-color: rgb(12, 16, 136);
+  text-align: center;
+  padding: 1.5rem;
+  color:white;
+}
+.mainImg{
+
+  text-align: center;
+  margin-bottom: 2rem;
+
+}
+.pass{
+  color:seagreen;
+  font-weight: bold;
+}
+.notPass{
+  color:red;
+  font-weight: bold;
+}

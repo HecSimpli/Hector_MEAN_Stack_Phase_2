@@ -1,0 +1,8 @@
+.pass{
+  color:seagreen;
+  font-weight: bold;
+}
+.notPass{
+  color:red;
+  font-weight: bold;
+}
